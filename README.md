@@ -22,8 +22,8 @@ Composition allows for greater flexibility in accommodating changes and new beha
 ![Class Hierarchy](https://files.realpython.com/media/ic-policy-based-composition.6e78bdb5824f.jpg)
 
 ## Output
-![Output Image 1](Capture6.PNG)
-![Output Image 2](Capture7.PNG)
+![Output Image 1](Capture7.PNG)
+![Output Image 2](Capture8.PNG)
 
 
 ## Usage
