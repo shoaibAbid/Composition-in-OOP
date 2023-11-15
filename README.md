@@ -1,5 +1,5 @@
 # Flexible Designs With Composition
-
+## This project has two branches. The main related to changing the class design to implement composition, and the other one is related to customizing behavior with composition.
 ## Overview
 
 This branch emphasizes composition over inheritance to achieve a more flexible and modular design. By utilizing composition, the class relationships are loosely coupled, making it easier to accommodate changes and additions.
